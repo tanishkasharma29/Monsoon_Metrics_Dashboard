@@ -1,7 +1,6 @@
 # Monsoon Metrics Dashboard
 
 
-![Monsoon Metrics Dashboard](./path_to_your_image_file.png)
 
 ## Overview
 
@@ -57,9 +56,6 @@ The Monsoon Metrics Dashboard is an interactive visualization tool built using P
   - Aid policymakers in designing water resource management strategies.
   - Support disaster management planning for monsoon-related events.
 
-## Screenshot
-
-![Monsoon Metrics Dashboard](./path_to_your_image_file.png)
 
 ## Conclusion
 
