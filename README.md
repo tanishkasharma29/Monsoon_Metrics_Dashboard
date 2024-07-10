@@ -1,5 +1,4 @@
-# Monsoon_Metrics_Dashboard
-Interactive Monsoon Metrics Power BI Dashboard using monsoon data from 1901 to 2017
+# Monsoon Metrics Dashboard
 
 
 ![Monsoon Metrics Dashboard](./path_to_your_image_file.png)
